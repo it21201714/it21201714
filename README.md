@@ -17,7 +17,7 @@ Welcome to my GitHub profile! Here are a few things about me:
 
 
 ## 📫 How to Reach Me
-- [LinkedIn]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/harishanth-anandaraj-1229ba274))
+- [LinkedIn]([https://www.linkedin.com/in/harishanth-anandaraj-1229ba274])
 
 
 Thanks for visiting! 😊

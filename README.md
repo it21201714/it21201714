@@ -1,11 +1,14 @@
 # Hi there, I'm Harishanth 👋
 
-Welcome to my GitHub profile! Here are a few things about me:
+Welcome to my GitHub profile! I'm excited to share my journey with you.
 
 ## 🚀 About Me
-- 🌱 I’m currently learning[[React Native],[MongoDB],[Angular]]
+- 🌱 I’m currently diving deep into **React Native**, **MongoDB**, and **Angular**
+- 💬 Ask me about **Java**, **Kotlin**, **Node.js**, **MongoDB**, **SQL**, **Express**, **C++**, **JavaScript**, **Python**, **React**
+- ⚡ Fun fact: I'm passionate about exploring new technologies and continuously improving my coding skills.
 
 ## 🛠️ Technologies & Tools
+
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -19,11 +22,11 @@ Welcome to my GitHub profile! Here are a few things about me:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ## 📈 GitHub Stats
-![Harishanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=it21201714&show_icons=true&hide_border=true)
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=it21201714&show_icons=true&hide_border=true&theme=radical" />
 
-## 📫 How to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/harishanth-anandaraj-1229ba274)
+## 🔗 Connect with Me
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harishanth-anandaraj-1229ba274)
 
 Thanks for visiting! 😊

@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm excited to share my journey with you.
 
 ## 📈 GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=it21201714&show_icons=true&hide_border=true&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=it21201714&show_icons=true&hide_border=true" />
 
 ## 🔗 Connect with Me
 

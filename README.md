@@ -15,12 +15,9 @@ Welcome to my GitHub profile! Here are a few things about me:
 ## 📈 GitHub Stats
 ![Harishanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=it21201714&show_icons=true&hide_border=true)
 
-## 📌 Pinned Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=it21201714&repo=DS-Project-Frontend)](https://github.com/it21201714/DS-Project-Frontend.git)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repository2)](https://github.com/yourusername/repository2)
 
 ## 📫 How to Reach Me
-- [LinkedIn](https://www.linkedin.com/in/yourprofile/)
+- [LinkedIn]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/harishanth-anandaraj-1229ba274))
 
 
 Thanks for visiting! 😊
